@@ -175,5 +175,6 @@ iframe, video {
 .greeting {
     text-align: center;
     margin: 30px;
+    font-size: 30px;
 
 }
